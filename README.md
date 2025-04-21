@@ -57,5 +57,3 @@ The enhanced CNN architecture achieves **~99% accuracy** on the MNIST test datas
 - Developers looking for a clean, minimal reference project
 
 ---
-
-Would you like a matching `README.md` file or badges (like accuracy, framework used, etc.) to make your GitHub page even more appealing?
