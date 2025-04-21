@@ -47,7 +47,7 @@ The enhanced CNN architecture achieves **~99% accuracy** on the MNIST test datas
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/your-username/mnist-cnn.git
+   git clone https://github.com/Manu-Venugopalan/Convolutional-Neural-Network-CNN-on-MNIST-Handwritten-Digit-Dataset.git
    cd mnist-cnn
 
 
