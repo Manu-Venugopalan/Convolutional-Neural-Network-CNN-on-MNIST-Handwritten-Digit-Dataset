@@ -1,5 +1,12 @@
 # Convolutional-Neural-Network-CNN-on-MNIST-Handwritten-Digit-Dataset
----
+![Made with Python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)
+![Framework](https://img.shields.io/badge/Framework-TensorFlow%2FKeras-blue)
+![Model](https://img.shields.io/badge/Model-CNN-green)
+![Dataset](https://img.shields.io/badge/Dataset-MNIST-orange)
+![Image Classification](https://img.shields.io/badge/Task-Image%20Classification-yellowgreen)
+![Accuracy](https://img.shields.io/badge/Accuracy-~99%25-brightgreen)
+![Jupyter Notebook](https://img.shields.io/badge/Notebook-Jupyter-yellow)
+![License](https://img.shields.io/badge/License-MIT-green)
 
 ## 🧠 Convolutional Neural Network (CNN) on MNIST Handwritten Digit Dataset
 
